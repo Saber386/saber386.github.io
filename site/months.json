@@ -1,96 +1,62 @@
 {
  "from": "2026-01-01",
- "to": "2026-11-24",
- "fetchedAt": "2026-11-25T09:11:39.159Z",
- "scope": "Sample monthly commits",
+ "to": "2026-11-26",
+ "fetchedAt": "2026-11-26T09:31:34.988Z",
+ "scope": "GitHub-attributed public commit contributions per repository and month",
  "months": [
   {
    "month": "2026-01",
-   "top": [
-    {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 12
-    },
-    {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 4
-    }
-   ]
+   "top": []
   },
   {
    "month": "2026-02",
-   "top": [
-    {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 19
-    },
-    {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 9
-    }
-   ]
+   "top": []
   },
   {
    "month": "2026-03",
-   "top": [
-    {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 26
-    },
-    {
-     "repo": "minikv",
-     "owner": "alexrivera",
-     "commits": 14
-    }
-   ]
+   "top": []
   },
   {
    "month": "2026-04",
    "top": [
     {
-     "repo": "schemasync",
-     "owner": "alexrivera",
-     "commits": 33
+     "repo": "Saber386",
+     "owner": "Saber386",
+     "commits": 16
     },
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 5
+     "repo": "Internguard-1st-year-College-Project-",
+     "owner": "Saber386",
+     "commits": 4
+    },
+    {
+     "repo": "onnxruntime-server",
+     "owner": "kibae",
+     "commits": 1
+    },
+    {
+     "repo": "first-contributions",
+     "owner": "firstcontributions",
+     "commits": 1
     }
    ]
   },
   {
    "month": "2026-05",
-   "top": [
-    {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 17
-    },
-    {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 10
-    }
-   ]
+   "top": []
   },
   {
    "month": "2026-06",
    "top": [
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 24
+     "repo": "linux-security-lab",
+     "owner": "Saber386",
+     "commits": 59
     },
     {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 15
+     "repo": "SIEM_Lab_with_Wazuh",
+     "owner": "Saber386",
+     "commits": 17
     }
    ]
   },
@@ -98,14 +64,9 @@
    "month": "2026-07",
    "top": [
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 31
-    },
-    {
-     "repo": "minikv",
-     "owner": "alexrivera",
-     "commits": 6
+     "repo": "SIEM_Lab_with_Wazuh",
+     "owner": "Saber386",
+     "commits": 34
     }
    ]
   },
@@ -113,44 +74,23 @@
    "month": "2026-08",
    "top": [
     {
-     "repo": "schemasync",
-     "owner": "alexrivera",
-     "commits": 15
-    },
-    {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 11
+     "repo": "Saber386",
+     "owner": "Saber386",
+     "commits": 3
     }
    ]
   },
   {
    "month": "2026-09",
-   "top": [
-    {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 22
-    },
-    {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 16
-    }
-   ]
+   "top": []
   },
   {
    "month": "2026-10",
    "top": [
     {
-     "repo": "termflow",
-     "owner": "alexrivera",
-     "commits": 29
-    },
-    {
-     "repo": "pulsedb",
-     "owner": "alexrivera",
-     "commits": 7
+     "repo": "kali_custom_rice",
+     "owner": "Saber386",
+     "commits": 1
     }
    ]
   },
@@ -158,14 +98,14 @@
    "month": "2026-11",
    "top": [
     {
-     "repo": "tracekit",
-     "owner": "alexrivera",
-     "commits": 13
+     "repo": "SOCDesk-",
+     "owner": "Saber386",
+     "commits": 2
     },
     {
-     "repo": "minikv",
-     "owner": "alexrivera",
-     "commits": 12
+     "repo": "saber386.github.io",
+     "owner": "Saber386",
+     "commits": 1
     }
    ]
   }
